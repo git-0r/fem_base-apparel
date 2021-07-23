@@ -19,8 +19,8 @@ Users should be able to:
 
 ### Screenshot
 
-![](four-card-feature.png)
+![](base-apparel.png)
 
 ### Links
 
-[- Live Site URL](https://your-live-site-url.com)
+[- Live Site URL](https://git-0r.github.io/fem_base-apparel/)
